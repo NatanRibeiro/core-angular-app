@@ -18,8 +18,13 @@ using DutchTreat.Controllers;
 
 #line default
 #line hidden
+#line 2 "/Workspace/Studies/DutchTreat/Views/_ViewImports.cshtml"
+using DutchTreat.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"79cd0147068ea20291cb84afde7521f781482c3c", @"/Views/App/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2b8d04935776e93e31e1b354af3303c1936621ea", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2a58e52bd3582c617598635e95334b16d6c2453b", @"/Views/_ViewImports.cshtml")]
     public class Views_App_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -69,7 +74,7 @@ using DutchTreat.Controllers;
     ");
             EndContext();
             BeginContext(356, 434, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e7027b064224210b4bc57c703bdd4c9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9aef1a8ebd4a4c3f9f7840a9eb9cacc5", async() => {
                 BeginContext(362, 421, true);
                 WriteLiteral(@"
         <label>Your Name:</label><br />
